@@ -148,7 +148,7 @@ def bayesian_optimization(current_time, ideal_temp, max_solar, cooling_load,
 # STREAMLIT APP
 # ==========================================
 
-st.title("❄️ Project Rainier Cooling Optimizer")
+st.title("❄️ Project AI_DataCenter Cooling Optimizer")
 st.markdown("**Bayesian optimization for energy-efficient data center cooling**")
 st.divider()
 
@@ -384,7 +384,7 @@ st.divider()
 st.markdown(
     """
     <div style='text-align: center; color: #6b7280; font-size: 0.875rem;'>
-    Project Rainier Cooling Optimizer | Powered by Bayesian Optimization
+    Project AI_DATA_CENTER Cooling Optimizer | Powered by Bayesian Optimization
     </div>
     """,
     unsafe_allow_html=True
